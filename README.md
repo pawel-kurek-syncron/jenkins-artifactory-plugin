@@ -1,4 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/01cimn54er7nna82?svg=true)](https://ci.appveyor.com/project/jfrog-ecosystem/jenkins-artifactory-plugin)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpawel-kurek-syncron%2Fjenkins-artifactory-plugin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpawel-kurek-syncron%2Fjenkins-artifactory-plugin?ref=badge_shield)
 
 # Artifactory Plugin for Jenkins
 
@@ -40,3 +41,7 @@ To run integration tests execute the following command:
 ```
 > mvn clean verify -DskipITs=false
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpawel-kurek-syncron%2Fjenkins-artifactory-plugin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpawel-kurek-syncron%2Fjenkins-artifactory-plugin?ref=badge_large)
